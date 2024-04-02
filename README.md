@@ -1,0 +1,2 @@
+# site
+The minimal site.
